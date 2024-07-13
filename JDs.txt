@@ -1,0 +1,82 @@
+The candidate should be well versed in NLP.Topic Modeling is also a desired quality.The candidate is also expected
+to know lda and should have some experience in dealing with named entity recognition models.Pos Tagging is also
+a desirable skill. Data Preprocessing techniques such as word2vec are also plus points. 
+@
+The candidate should be well versed in NLP. Word embedding is also a desired quality.The candidate is also expected
+to know lsi and should have some experience in dealing with spacy models. gensim is also
+a desirable skill. NLTK is also a good skill to have.
+@
+The candidate should be well versed in NLP. nmf is also a desired quality.The candidate is also expected
+to know doc2vec and should have some experience in dealing with cbow. bag of words is also
+a desirable skill. skip gram is also a good skill to have.
+@
+The candidate should be well versed in NLP. bert is also a desired quality.The candidate is also expected
+to know sentiment analysis and must have worked with and developed chat bot applications. 
+@
+The candidate should be well versed in NLP.Topic Modeling is also a desired quality.The candidate is also expected
+to know lda and should have some experience in dealing with named entity recognition models.Pos Tagging is also
+a desirable skill. Data Preprocessing techniques such as word2vec are also plus points.Word embedding is also a desired quality.The candidate is also expected
+to know lsi and should have some experience in dealing with spacy models. gensim is also
+a desirable skill. NLTK is also a good skill to have.nmf is also a desired quality.The candidate is also expected
+to know doc2vec and should have some experience in dealing with cbow. bag of words is also
+a desirable skill. skip gram is also a good skill to have. bert is also a desired quality.The candidate is also expected
+to know sentiment analysis and must have worked with chat bot applications. 
+@
+The candidate should be well versed in linear regression.logistic regression is also a desired quality.The candidate is also expected
+to know K means and should have some experience in dealing with random forest models.xgboost is also
+a desirable skill.techniques such as svm are also plus points.naive bayes is also a desired quality.
+@
+The candidate is also expected to know pca and should have some experience in dealing with decision trees. svd is also
+a desirable skill. ensemble models is also a good skill to have.boltzman machine is also a desired quality.
+@
+The candidate is also expected to know pca and should have some experience in dealing with decision trees. svd is also
+a desirable skill. ensemble models is also a good skill to have.boltzman machine is also a desired quality.
+The candidate should be well versed in linear regression.logistic regression is also a desired quality.The candidate is also expected
+to know K means and should have some experience in dealing with random forest models.xgboost is also
+a desirable skill.techniques such as svm are also plus points.naive bayes is also a desired quality.
+@
+The candidate is also expected to know pca and should have some experience in dealing with decision trees. svd is also
+a desirable skill. ensemble models is also a good skill to have.boltzman machine is also a desired quality.
+The candidate should be well versed in linear regression.logistic regression is also a desired quality.The candidate is also expected
+to know K means and should have some experience in dealing with random forest models.xgboost is also
+a desirable skill.techniques such as svm are also plus points.naive bayes is also a desired quality.The candidate should be well versed in NLP. nmf is also a desired quality.The candidate is also expected
+to know doc2vec and should have some experience in dealing with cbow. bag of words is also
+a desirable skill. skip gram is also a good skill to have.
+@
+Hands on experience with r is a must. essential skills like ggplot and shiny should be well known. cran is also fine. dplyr, tidyr, lubridate and knitr are also expected. 
+@
+User should be well versed in neural networks. keras, theano and face detection are also expected. 
+neural networks are also good.convolutional neural network(cnn) are also essential skills. recurrent neural network(RNN) should have some familiarity. 
+@
+object detection is an integral deep learning skill. yolo, gpu, cuda and tensorflow are also expected. lstm, gan and opency are also must have. 
+@
+The candidate is also expected to know pca and should have some experience in dealing with decision trees. svd is also
+a desirable skill. ensemble models is also a good skill to have.boltzman machine is also a desired quality.
+The candidate should be well versed in linear regression.logistic regression is also a desired quality.The candidate is also expected
+to know K means and should have some experience in dealing with random forest models.xgboost is also
+a desirable skill.techniques such as svm are also plus points.naive bayes is also a desired quality.The candidate should be well versed in NLP. nmf is also a desired quality.The candidate is also expected
+to know doc2vec and should have some experience in dealing with cbow. bag of words is also
+a desirable skill. skip gram is also a good skill to have.object detection is an integral deep learning skill. yolo, gpu, cuda and tensorflow are also expected. lstm, gan and opency are also must have. 
+User should be well versed in neural networks. keras, theano and face detection are also expected. 
+neural networks are also good.convolutional neural network(cnn) are also essential skills. recurrent neural network(RNN) should have some familiarity. 
+object detection is an integral deep learning skill. yolo, gpu, cuda and tensorflow are also expected. lstm, gan and opency are also must have. 
+@
+as a datascientist, you must know python. experience with frameworks like django and flask is preffered. data analysis libraries like pandas and numpy are very helpful. 
+pyml models like scikitlearn are also very desired. In short, the user must know the following : sklearn,matplotlib,scipy, bokeh and statsmodel are expected to be found in the candidates. 
+@
+very important to know statistical models and statistical modeling. probability distributions like normal distribution, poisson distribution are a must. survival models and hypothesis testing techniques 
+are expected. bayesian inference, factor analysis and forecasting are also needed. the candidate should have some experience with markov chains and monte carlo technique.
+@
+we expect our candidates to understand laws package and should have comfortability dealing with ec2. amazon redshift, s3 and docker should be on fingertips. expertise with kubernetes, scala and teradata 
+are the skills we look forward to. big data skills like google big query, laws lambda, laws emr and hive are also desirable. experience with hadooop and sql is also expected.  
+@
+as a datascientist, you must know python. experience with frameworks like django and flask is preffered. data analysis libraries like pandas and numpy are very helpful. 
+pyml models like scikitlearn are also very desired. In short, the user must know the following : sklearn,matplotlib,scipy, bokeh and statsmodel are expected to be found in the candidates. 
+very important to know statistical models and statistical modeling. probability distributions like normal distribution, poisson distribution are a must. survival models and hypothesis testing techniques 
+are expected. bayesian inference, factor analysis and forecasting are also needed. the candidate should have some experience with markov chains and monte carlo technique.
+we expect our candidates to understand laws package and should have comfortability dealing with ec2. amazon redshift, s3 and docker should be on fingertips. expertise with kubernetes, scala and teradata 
+are the skills we look forward to. big data skills like google big query, laws lambda, laws emr and hive are also desirable. experience with hadooop and sql is also expected.  
+
+
+ 
+   
